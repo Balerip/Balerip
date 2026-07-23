@@ -1,4 +1,4 @@
-### Hi, I'm Panchami Baleri
+### Hi, I am Panchami Baleri
 
 Data Engineer building reliable pipelines out of messy, multi-source data.
 
