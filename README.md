@@ -4,7 +4,6 @@ Data engineer. I build ELT pipelines and fix the problem of data from five diffe
 
 **Stack:** Python · SQL · PySpark · Spark Structured Streaming · Airflow · dbt · AWS (S3, Glue, Redshift, Athena, EMR) · Kafka · Delta Lake · PostgreSQL
 
----
 
 **Projects**
 
