@@ -43,10 +43,7 @@ I specialize in taking data that arrives from fragmented, inconsistent sourcesâ€
 <br>
 
 * **[Neu_ChatBot](https://github.com/Balerip/Neu_ChatBot):** Conversational AI chatbot prototype.
-* **[Analyst](https://github.com/Balerip/Analyst):** Python utility tool for data exploratory workflows.
-* **[CloudVision](https://github.com/Balerip/CloudVision):** Cloud-based image processing experiment in Clojure.
-* **[INFO 6105 - Data Science Eng Methods](https://github.com/Balerip/INFO6105-DataScience-Eng-Methods):** Graduate coursework on predictive modeling and algorithmic engineering.
-* **[INFO 7374 - Advanced LLM Techniques](https://github.com/Balerip/INFO7374-41520-ST-Adv-Techniques-With-LLM):** Graduate coursework exploring advanced prompt engineering, fine-tuning, and retrieval architectures.
+
 
 </details>
 
