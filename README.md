@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-I specialize in taking data that arrives from fragmented, inconsistent sources—CRMs, event streams, campaign engines, application logs—and unifying it into production-grade, trusted datasets.
+I specialize in taking data that arrives from fragmented, inconsistent sources and unifying it into production-grade, trusted datasets.
 
 * **End-to-End Pipeline Engineering:** Ingesting raw streams/batch data, cleaning inconsistent schemas, modeling for analytics, and enforcing schema/quality gating before downstream delivery.
 * **Core Focus:** Building data systems that reconcile multi-source data, ensuring reliability across warehouses, real-time aggregates, and AI applications.
