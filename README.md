@@ -58,7 +58,7 @@ I specialize in taking data that arrives from fragmented, inconsistent sources a
 Each project highlights a specific phase in my data workflow:
 * 📥 **Ingestion:** Moving raw streams and API payloads reliably into staging layers.
 * 🔄 **Transformation:** Cleaning, joining, and standardizing schemas with PySpark, Python, and SQL.
-* 🏗 **Modeling & Reliability:** Building dbt models, star schemas, and applying strict validation gates.
+* 🏗 **Modeling & Reliability:** star schemas, and applying strict validation gates.
 * 📊 **Delivery:** Serving analytical outputs to query engines, streaming sinks, and vector indexes.
 
 ---
