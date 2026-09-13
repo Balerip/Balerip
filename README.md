@@ -21,11 +21,11 @@ I specialize in taking data that arrives from fragmented, inconsistent sources a
 
 | Category | Technologies |
 | :--- | :--- |
-| **Data Engineering** | AWS Glue, Apache Airflow, dbt, PySpark, Spark Structured Streaming |
-| **Storage & Warehousing** | Amazon Redshift, AWS S3, Athena, Delta Lake, PostgreSQL, Snowflake |
-| **Streaming & Messaging** | Apache Kafka, Watermarked Windowing, Incremental Processing |
-| **Analytics & BI** | Tableau, Power BI, SQL Data Modeling |
-| **Languages & Tools** | Python, SQL, Git, CI/CD, Data Quality Frameworks |
+Languages & Processing: Python, SQL, PySpark, Apache Spark, Spark Structured Streaming
+Data Engineering: ETL/ELT, Data Warehousing, Incremental Processing, Apache Airflow, Kafka
+Cloud & Storage: AWS (S3, Glue, Redshift, Athena, EMR), Delta Lake, PostgreSQL, Elasticsearch, Docker, CI/CD,
+Git
+Quality & Analytics: Schema Enforcement, Data Validation, Data Quality, CloudWatch, Tableau
 
 ---
 
