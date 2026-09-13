@@ -17,10 +17,6 @@ I specialize in taking data that arrives from fragmented, inconsistent sources a
 
 ---
 
-### 🛠 Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
 ### Tech Stack
 
 | Category | Technologies |
